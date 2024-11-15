@@ -3,7 +3,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Contents
 This project contains
-. 
+-> Basic Tables
+-> Header Groups
+-> Sorting
+-> Sorting and Formating
+-> Global and Column Filtering
+-> Pagination (Next, Previous, goto, pageSize)
+-> Sticky Columns
 
 ## Available Scripts
 
