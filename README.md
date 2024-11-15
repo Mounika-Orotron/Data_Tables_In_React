@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Contents
-###This project contains
+### This project contains
 -> Basic Tables\
 -> Header Groups\
 -> Sorting\
